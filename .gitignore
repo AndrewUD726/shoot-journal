@@ -1,0 +1,6 @@
+test_s5/
+test_qr/
+NOTES_*.md
+tools/make_test_journal.py
+__pycache__/
+*.pyc
